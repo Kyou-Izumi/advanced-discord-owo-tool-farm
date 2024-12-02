@@ -19,7 +19,7 @@ Please report bugs and keep on track with our announcement!
 > **Check out this discussion: https://github.com/Kyou-Izumi/discord-owo-selfbot/discussions/45**
 
 ## Requirement
-__Node.js Version:__ v16.6.0 and above
+__Node.js Version:__ v22.11.0 and above
 
 For laptop and PC: Windows 10/11 or higher, Linux and MacOS
 
@@ -51,7 +51,7 @@ apt install git
 
 ### Tool installation
 
-Download and extract the module or clone/pull it using [Git](https://git-scm.com/downloads):
+[Download and extract the module](https://github.com/Kyou-Izumi/advanced-discord-owo-tool-farm/archive/refs/heads/main.zip) or clone/pull it using [Git](https://git-scm.com/downloads):
 ```bash
 git clone https://github.com/Kyou-Izumi/advanced-discord-owo-tool-farm.git
 ```
@@ -109,7 +109,7 @@ If you see the following warning
 
 ![Imgur](https://i.imgur.com/jSTfrOr.png)
 
-Congratulation, you have installed our `advanced discord owo tool farm` successfully.
+Congratulation, you have installed our `Advanced discord OwO tool farm` successfully.
 
 Type "Y", enter and enjoy your time! (The tool will exit if you press enter only)
 
@@ -165,7 +165,7 @@ Recently, there have been reports of hacked accounts and lost currency associate
 
 ✔ Attempt to solve captcha by using 3rd party captcha-api website
 
-✔ Solve captcha from OwO website (1 week usage for every 10 stars, further info in discord server)
+✔ Solve captcha from OwO website (1 week usage for every 10 stars, further info in [discord server](https://discord.gg/Yr92g5Zx3e))
 
 ✔ DMs selfbot account to send captcha answer to OwO (user -> selfbot -> OwO)
 
@@ -205,7 +205,7 @@ Recently, there have been reports of hacked accounts and lost currency associate
 
 ✔ Clean code
 
-✔ Open source
+✔ __Open source__ [halfly]
 
 __-- Coming soon list --__
 
@@ -218,6 +218,8 @@ __-- Coming soon list --__
 ⬜ Automatic claim/handle quest and checklog
 
 ⬜ Application with UI support
+
+⬜ Application with language support
 
 ## Sparkling Soul
 
@@ -247,6 +249,8 @@ __Fanpage:__ [Nong ngoo ở đảo Ngố](https://www.facebook.com/profile.php?i
 
 __Patreon:__ [Click here!](https://patreon.com/DiscordOwOSelfbot)
 
+__PayPal:__ [Click here!](https://www.paypal.me/IzumiKyou)
+
 __Email:__ ntt.eternity2k6@gmail.com
 
 __Join our discord server:__ [Tool Support Server](https://discord.gg/Yr92g5Zx3e)
@@ -266,7 +270,7 @@ __Join our discord server:__ [Tool Support Server](https://discord.gg/Yr92g5Zx3e
 ## Acknowledgments
 __SPECIAL THANKS TO:__
 
-Aiko-chan-ai
+[Aiko-chan-ai](https://github.com/aiko-chan-ai)
 
 iamz4ri
 
@@ -274,13 +278,13 @@ keepmeside
 
 gillcoder
 
-awesomebadname
+[awesomebadname](https://github.com/uwuv3)
 
 ## License
 
 ✨ Licensed under the MIT license.
 
-⛱️ Copyright © EternityVN x aiko-chan-ai 2022
+⛱️ Copyright © EternityVN x aiko-chan-ai 2024
 
 💖 Made by Vietnamese with love
 
